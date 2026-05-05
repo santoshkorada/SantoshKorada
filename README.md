@@ -1,22 +1,60 @@
-<h1 align="center">Hi 👋, I'm Santosh Korada</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<div align="center">
+  
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santosh%20Korada&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20Cloud%20Native&descAlignY=52&descSize=18"/>
 
-- 🔭 I’m currently working for **Autodesk**
+<!-- 3D Social Badges -->
+<a href="https://www.linkedin.com/in/santoshkorada/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&logoWidth=20" height="35"/>
+</a>
+<a href="mailto:santuk95@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335&logoWidth=20" height="35"/>
+</a>
+<a href="https://github.com/santoshkorada">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=20" height="35"/>
+</a>
 
-- 🌱 I’m currently learning **AWS, Python, Spring securities**
+<br/><br/>
 
-- 👯 I’m looking to collaborate on **working for open source projects**
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+AWS+%7C+Microservices;Open+Source+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+</a>
 
-- 💬 Ask me about **Java, Spring, Spring Boot, AWS**
+</div>
 
-- 📫 How to reach me **santuk95@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/santoshkorada/](https://www.linkedin.com/in/santoshkorada/)
+<!-- 3D Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santoshkorada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santoshkorada" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```javascript
+const santosh = {
+    location: "Bangalore, India 🇮🇳",
+    company: "Autodesk",
+    role: "Senior Software Engineer",
+    expertise: [
+        "Backend Development",
+        "Microservices Architecture", 
+        "Cloud Solutions",
+        "System Design"
+    ],
+    currentlyLearning: [
+        "AWS Solutions Architect",
+        "Advanced Spring Security",
+        "Python Design Patterns"
+    ],
+    funFact: "I debug with coffee ☕"
+};
